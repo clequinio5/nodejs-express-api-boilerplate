@@ -1,4 +1,4 @@
-# WS-HARDIS
+# Api nodejs boilerplate
 
 ## Installation
 
@@ -9,10 +9,10 @@ npm install
 
 npm start
 
-#" Endpoints
+## Endpoints
 
-http://localhost:5001/adherents/
-http://localhost:5001/adherents/{id}
+- http://localhost:5001/adherents/
+- http://localhost:5001/adherents/{id}
 
 ## Ameliorations
 
